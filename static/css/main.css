@@ -40,9 +40,10 @@ img {
 
 .content {
     padding-top: 20px;
-    text-align: "left"; 
+    text-align: left;
 }
-/* var(--content-align);
+/*  var(--content-align); */
+
 
 
 /* Profile picture */
